@@ -8,6 +8,7 @@
   <packaging>pom</packaging>
 
   <name>A test project</name>
+  <description>A description</description>
 
   <scm>
     <developerConnection>scm:git:git@github.com:stephenc/testing-cd-with-maven.git</developerConnection>
